@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns   = "http://www.w3.org/ns/widgets"
+    xmlns:gap   = "http://phonegap.com/ns/1.0"
+    id          = "com.suzannelupinus.czolkoexample"
+    versionCode = "10"
+    version     = "1.0.0" >
+
+<!-- versionCode is optional and Android only -->
+
+  <name>Czolko</name>
+
+  <description>
+      An example for my new game/
+  </description>
+
+  <author href="https://build.mephonegap.com" email="me@phonegap.com">
+      Suzanne Lupinus
+  </author>
+
+  <icon src="icon.png" />
+
+</widget>
